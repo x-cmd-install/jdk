@@ -1,0 +1,89 @@
+about:
+  description:
+  |
+    JDK main-line development https://openjdk.org/projects/jdk
+  license: GPL-2.0
+  homepage: 
+  head: f0952f6
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-04T05:09:25Z
+timeline:
+  created: 2018-09-17
+  lastCommit: 2026-09-04
+  lastRelease: 
+popularity:
+  star: 23320
+  watcher: 366
+  fork: 6436
+  release: 0
+  contributor: 923
+  pullRequest: 32624
+  issue: 0
+language:
+  Java: 390092772
+  C++: 75361550
+  C: 41071784
+  Assembly: 14016181
+  Objective-C: 1968102
+  HTML: 1316592
+  XSLT: 1149582
+  M4: 819035
+  Shell: 686056
+  Python: 331318
+  CMake: 214772
+  JavaScript: 79808
+  Cuda: 51926
+  TypeScript: 43752
+  Noir: 39007
+  Wolfram Language: 38180
+  Makefile: 37009
+  DTrace: 32478
+  Metal: 32110
+  Awk: 29010
+  Perl: 12746
+  CSS: 10092
+  GDB: 6820
+  AppleScript: 6565
+  PowerShell: 5232
+  Pawn: 4585
+  Batchfile: 3199
+  Raku: 2253
+  sed: 1429
+  BitBake: 1221
+  AMPL: 1138
+  Red: 396
+totalBytes: 527466700
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 2
+    openPR: 131
+    closedIssue: 0
+    openIssue: 0
+    commit: 299
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 4
+    openPR: 257
+    closedIssue: 0
+    openIssue: 0
+    commit: 739
+  last180d:
+    since: 2026-03-08
+    release: 0
+    mergedPR: 5
+    openPR: 334
+    closedIssue: 0
+    openIssue: 0
+    commit: 1513
+  last360d:
+    since: 2025-09-09
+    release: 0
+    mergedPR: 8
+    openPR: 366
+    closedIssue: 0
+    openIssue: 0
+    commit: 3246
