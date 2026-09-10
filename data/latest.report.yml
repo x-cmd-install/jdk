@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:12:32Z
+  collectedAt: 2026-09-10T22:39:22Z
 timeline:
   created: 2018-09-17
   lastCommit: 2026-09-10
@@ -20,7 +20,7 @@ popularity:
   fork: 6441
   release: 0
   contributor: 922
-  pullRequest: 32778
+  pullRequest: 32780
   issue: 0
 language:
   Java: 390519660
@@ -61,7 +61,7 @@ recent:
     since: 2026-08-11
     release: 0
     mergedPR: 2
-    openPR: 164
+    openPR: 166
     closedIssue: 0
     openIssue: 0
     commit: 292
@@ -69,7 +69,7 @@ recent:
     since: 2026-07-12
     release: 0
     mergedPR: 4
-    openPR: 251
+    openPR: 253
     closedIssue: 0
     openIssue: 0
     commit: 580
@@ -77,7 +77,7 @@ recent:
     since: 2026-06-12
     release: 0
     mergedPR: 4
-    openPR: 282
+    openPR: 284
     closedIssue: 0
     openIssue: 0
     commit: 763
@@ -85,7 +85,7 @@ recent:
     since: 2026-03-14
     release: 0
     mergedPR: 5
-    openPR: 354
+    openPR: 356
     closedIssue: 0
     openIssue: 0
     commit: 1519
@@ -93,7 +93,7 @@ recent:
     since: 2025-09-15
     release: 0
     mergedPR: 8
-    openPR: 391
+    openPR: 393
     closedIssue: 0
     openIssue: 0
     commit: 3242
@@ -101,20 +101,20 @@ recent:
     since: 2024-09-20
     release: 0
     mergedPR: 14
-    openPR: 414
+    openPR: 416
     closedIssue: 0
     openIssue: 0
     commit: 9729
 total:
   release: 0
   mergedPR: 22
-  openPR: 416
+  openPR: 418
   closedIssue: 0
   openIssue: 0
   commit: 89668
 ---
 path: /home/runner/.x-repo/github.com/openjdk/jdk
-collectedAt: 2026-09-10T21:15:29Z
+collectedAt: 2026-09-10T22:42:16Z
 loc:
   Java:
     code: 5952271
