@@ -45,18 +45,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 22 · **Open PRs**: 416 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 89668
+- **Releases**: 0 · **Merged PRs**: 22 · **Open PRs**: 418 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 89668
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 2 | 164 | 0 | 0 | 292 |
-| last60d | 2026-07-12 | 0 | 4 | 251 | 0 | 0 | 580 |
-| 90d | 2026-06-12 | 0 | 4 | 282 | 0 | 0 | 763 |
-| last180d | 2026-03-14 | 0 | 5 | 354 | 0 | 0 | 1519 |
-| 360d | 2025-09-15 | 0 | 8 | 391 | 0 | 0 | 3242 |
-| last720d | 2024-09-20 | 0 | 14 | 414 | 0 | 0 | 9729 |
+| 30d | 2026-08-11 | 0 | 2 | 166 | 0 | 0 | 292 |
+| last60d | 2026-07-12 | 0 | 4 | 253 | 0 | 0 | 580 |
+| 90d | 2026-06-12 | 0 | 4 | 284 | 0 | 0 | 763 |
+| last180d | 2026-03-14 | 0 | 5 | 356 | 0 | 0 | 1519 |
+| 360d | 2025-09-15 | 0 | 8 | 393 | 0 | 0 | 3242 |
+| last720d | 2024-09-20 | 0 | 14 | 416 | 0 | 0 | 9729 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for jdk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:15:46Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:42:27Z._
