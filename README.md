@@ -14,15 +14,15 @@ x install jdk
 
 ## Code insight
 
-Total: **9,850,278** lines of code across **59789** files in the top 5 languages.
+Total: **9,850,643** lines of code across **59793** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 5,975,392 | 3,332,091 | 1,116,525 | 53360 |
+| Java | 5,975,575 | 3,332,487 | 1,116,576 | 53363 |
 | Xml | 1,401,852 | 10,094 | 2,330 | 1789 |
-| Cpp | 1,028,781 | 262,148 | 193,108 | 3534 |
+| Cpp | 1,028,880 | 262,141 | 193,121 | 3534 |
 | AssemblyGAS | 405,058 | 1,322 | 11,578 | 92 |
-| C | 402,607 | 86,524 | 80,892 | 1014 |
+| C | 402,620 | 86,546 | 80,896 | 1015 |
 
 ## OpenSSF Scorecard
 
@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,460 · **Forks**: 6,497 · **Open issues**: 0 · **Contributors**: 933
+- **Stars**: 23,464 · **Forks**: 6,498 · **Open issues**: 0 · **Contributors**: 933
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 24 · **Open PRs**: 395 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 90351
+- **Releases**: 0 · **Merged PRs**: 24 · **Open PRs**: 407 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 90362
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 2 | 161 | 0 | 0 | 296 |
-| last60d | 2026-08-24 | 0 | 2 | 235 | 0 | 0 | 650 |
-| 90d | 2026-07-25 | 0 | 4 | 273 | 0 | 0 | 966 |
-| last180d | 2026-04-26 | 0 | 6 | 329 | 0 | 0 | 1633 |
-| 360d | 2025-10-28 | 0 | 9 | 373 | 0 | 0 | 3290 |
-| last720d | 2024-11-02 | 0 | 15 | 388 | 0 | 0 | 9800 |
+| 30d | 2026-09-24 | 0 | 2 | 167 | 0 | 0 | 303 |
+| last60d | 2026-08-25 | 0 | 2 | 244 | 0 | 0 | 657 |
+| 90d | 2026-07-26 | 0 | 4 | 282 | 0 | 0 | 973 |
+| last180d | 2026-04-27 | 0 | 6 | 339 | 0 | 0 | 1640 |
+| 360d | 2025-10-29 | 0 | 9 | 383 | 0 | 0 | 3297 |
+| last720d | 2024-11-03 | 0 | 15 | 399 | 0 | 0 | 9806 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for jdk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:56:08Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:32:51Z._
