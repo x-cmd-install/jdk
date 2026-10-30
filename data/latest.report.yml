@@ -2,30 +2,30 @@ about:
   description: "JDK main-line development https://openjdk.org/projects/jdk"
   license: GPL-2.0
   homepage: 
-  head: 2f526da
+  head: 6cf31a5
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:51:01Z
+  collectedAt: 2026-10-30T06:48:14Z
 timeline:
   created: 2018-09-17
-  lastCommit: 2026-10-29
+  lastCommit: 2026-10-30
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 23476
-  watcher: 366
-  fork: 6564
+  star: 23481
+  watcher: 367
+  fork: 6580
   release: 0
   contributor: 933
-  pullRequest: 33576
+  pullRequest: 33594
   issue: 0
 language:
-  Java: 392103153
-  C++: 76136398
-  C: 40773556
+  Java: 392133376
+  C++: 76142004
+  C: 40774347
   Assembly: 14016181
   Objective-C: 1969413
   HTML: 1316592
@@ -55,81 +55,81 @@ language:
   BitBake: 1221
   AMPL: 1138
   Red: 396
-totalBytes: 529971885
+totalBytes: 530008505
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 3
-    openPR: 168
+    openPR: 160
     closedIssue: 0
     openIssue: 0
-    commit: 305
+    commit: 321
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 3
-    openPR: 249
+    openPR: 241
     closedIssue: 0
     openIssue: 0
-    commit: 634
+    commit: 650
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 5
-    openPR: 283
+    openPR: 275
     closedIssue: 0
     openIssue: 0
-    commit: 957
+    commit: 973
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
     mergedPR: 7
-    openPR: 343
+    openPR: 333
     closedIssue: 0
     openIssue: 0
-    commit: 1625
+    commit: 1641
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
     mergedPR: 10
-    openPR: 390
+    openPR: 380
     closedIssue: 0
     openIssue: 0
-    commit: 3256
+    commit: 3272
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
     mergedPR: 16
-    openPR: 405
+    openPR: 395
     closedIssue: 0
     openIssue: 0
-    commit: 9773
+    commit: 9779
 total:
   release: 0
   mergedPR: 25
-  openPR: 412
+  openPR: 402
   closedIssue: 0
   openIssue: 0
-  commit: 90419
+  commit: 90442
 ---
 path: /home/runner/.x-repo/github.com/openjdk/jdk
-collectedAt: 2026-10-29T06:53:50Z
+collectedAt: 2026-10-30T06:50:50Z
 loc:
   Java:
-    code: 5977520
-    comments: 3333654
-    blanks: 1117028
-    files: 53386
+    code: 5977932
+    comments: 3333904
+    blanks: 1117117
+    files: 53392
   Xml:
     code: 1401852
     comments: 10094
     blanks: 2330
     files: 1789
   Cpp:
-    code: 1028956
-    comments: 262185
-    blanks: 193134
+    code: 1029056
+    comments: 262196
+    blanks: 193154
     files: 3534
   AssemblyGAS:
     code: 405058
@@ -137,14 +137,14 @@ loc:
     blanks: 11578
     files: 92
   C:
-    code: 402620
-    comments: 86546
-    blanks: 80896
+    code: 402631
+    comments: 86550
+    blanks: 80895
     files: 1015
   CppHeader:
-    code: 326878
-    comments: 121271
-    blanks: 76157
+    code: 326887
+    comments: 121274
+    blanks: 76159
     files: 2554
   CHeader:
     code: 145433
@@ -313,14 +313,14 @@ loc:
     files: 127
   Text:
     code: 0
-    comments: 375578
-    blanks: 24445
+    comments: 375577
+    blanks: 24444
     files: 888
 total:
-  code: 9852823
-  comments: 4315344
-  blanks: 1562622
-  files: 65645
+  code: 9853355
+  comments: 4315611
+  blanks: 1562731
+  files: 65651
 ---
 date: "2026-10-26"
 repo:
