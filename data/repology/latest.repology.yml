@@ -2,6 +2,17 @@
   srcname: com.oracle.JDK
   binname: com.oracle.JDK
   visiblename: JDK
+  version: 14.0.0.36
+  origversion: null
+  status: legacy
+  licenses:
+    - Java SE license
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: com.oracle.JDK
+  binname: com.oracle.JDK
+  visiblename: JDK
   version: 15.0.2.7
   origversion: null
   status: legacy
@@ -20,18 +31,17 @@
     - Java SE license
   categories:
     - Development
-- repo: aur
-  srcname: jdk
-  binname: jdk-doc
-  visiblename: jdk-doc
-  version: "27"
-  origversion: 27-1
-  status: newest
-  summary: Oracle Java documentation
-  maintainers:
-    - dbermond@aur
+- repo: npackd_stable
+  srcname: com.oracle.JDK
+  binname: com.oracle.JDK
+  visiblename: JDK
+  version: 18.0.2.9
+  origversion: null
+  status: outdated
   licenses:
-    - LicenseRef-custom
+    - Java SE license
+  categories:
+    - Development
 - repo: aur
   srcname: jdk
   binname: jre
@@ -56,28 +66,18 @@
     - dbermond@aur
   licenses:
     - LicenseRef-custom
-- repo: npackd_stable
-  srcname: com.oracle.JDK
-  binname: com.oracle.JDK
-  visiblename: JDK
-  version: 14.0.0.36
-  origversion: null
-  status: legacy
+- repo: aur
+  srcname: jdk
+  binname: jdk-doc
+  visiblename: jdk-doc
+  version: "27"
+  origversion: 27-1
+  status: newest
+  summary: Oracle Java documentation
+  maintainers:
+    - dbermond@aur
   licenses:
-    - Java SE license
-  categories:
-    - Development
-- repo: npackd_stable
-  srcname: com.oracle.JDK
-  binname: com.oracle.JDK
-  visiblename: JDK
-  version: 18.0.2.9
-  origversion: null
-  status: outdated
-  licenses:
-    - Java SE license
-  categories:
-    - Development
+    - LicenseRef-custom
 - repo: npackd_stable64
   srcname: com.oracle.JDK64
   binname: com.oracle.JDK64
@@ -367,11 +367,11 @@
     - willysr@slackbuilds.org
   categories:
     - development
-- repo: npackd_stable
-  srcname: com.oracle.JDK
-  binname: com.oracle.JDK
-  visiblename: JDK
-  version: 1.6.0.24
+- repo: npackd_stable64
+  srcname: com.oracle.JDK64
+  binname: com.oracle.JDK64
+  visiblename: JDK 64 bit
+  version: "12"
   origversion: null
   status: legacy
   licenses:
@@ -379,10 +379,10 @@
   categories:
     - Development
   vulnerable: true
-- repo: npackd_stable
-  srcname: com.oracle.JDK
-  binname: com.oracle.JDK
-  visiblename: JDK
+- repo: npackd_stable64
+  srcname: com.oracle.JDK64
+  binname: com.oracle.JDK64
+  visiblename: JDK 64 bit
   version: 1.6.0.25
   origversion: null
   status: legacy
@@ -419,6 +419,30 @@
   srcname: com.oracle.JDK64
   binname: com.oracle.JDK64
   visiblename: JDK 64 bit
+  version: 12.0.1
+  origversion: null
+  status: legacy
+  licenses:
+    - Java SE license
+  categories:
+    - Development
+  vulnerable: true
+- repo: npackd_stable
+  srcname: com.oracle.JDK
+  binname: com.oracle.JDK
+  visiblename: JDK
+  version: 1.6.0.24
+  origversion: null
+  status: legacy
+  licenses:
+    - Java SE license
+  categories:
+    - Development
+  vulnerable: true
+- repo: npackd_stable
+  srcname: com.oracle.JDK
+  binname: com.oracle.JDK
+  visiblename: JDK
   version: 1.6.0.25
   origversion: null
   status: legacy
@@ -444,30 +468,6 @@
   binname: com.oracle.JDK64
   visiblename: JDK 64 bit
   version: 11.0.2
-  origversion: null
-  status: legacy
-  licenses:
-    - Java SE license
-  categories:
-    - Development
-  vulnerable: true
-- repo: npackd_stable64
-  srcname: com.oracle.JDK64
-  binname: com.oracle.JDK64
-  visiblename: JDK 64 bit
-  version: "12"
-  origversion: null
-  status: legacy
-  licenses:
-    - Java SE license
-  categories:
-    - Development
-  vulnerable: true
-- repo: npackd_stable64
-  srcname: com.oracle.JDK64
-  binname: com.oracle.JDK64
-  visiblename: JDK 64 bit
-  version: 12.0.1
   origversion: null
   status: legacy
   licenses:
