@@ -14,13 +14,13 @@ x install jdk
 
 ## Code insight
 
-Total: **9,819,201** lines of code across **59709** files in the top 5 languages.
+Total: **9,819,184** lines of code across **59709** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 5,985,026 | 3,342,542 | 1,118,502 | 53466 |
+| Java | 5,985,031 | 3,342,543 | 1,118,502 | 53466 |
 | Xml | 1,348,271 | 9,141 | 2,343 | 1596 |
-| Cpp | 1,032,985 | 262,968 | 193,634 | 3540 |
+| Cpp | 1,033,052 | 262,969 | 193,643 | 3540 |
 | AssemblyGAS | 405,072 | 1,322 | 11,579 | 92 |
 | C | 402,143 | 86,454 | 80,756 | 1015 |
 
@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,525 · **Forks**: 6,603 · **Open issues**: 0 · **Contributors**: 936
+- **Stars**: 23,528 · **Forks**: 6,603 · **Open issues**: 0 · **Contributors**: 936
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 25 · **Open PRs**: 421 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 90652
+- **Releases**: 0 · **Merged PRs**: 25 · **Open PRs**: 420 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 90654
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 3 | 183 | 0 | 0 | 326 |
-| last60d | 2026-09-15 | 0 | 3 | 250 | 0 | 0 | 657 |
-| 90d | 2026-08-16 | 0 | 5 | 292 | 0 | 0 | 982 |
-| last180d | 2026-05-18 | 0 | 7 | 349 | 0 | 0 | 1697 |
-| 360d | 2025-11-19 | 0 | 10 | 398 | 0 | 0 | 3295 |
-| last720d | 2024-11-24 | 0 | 16 | 414 | 0 | 0 | 9678 |
+| 30d | 2026-10-16 | 0 | 3 | 183 | 0 | 0 | 238 |
+| last60d | 2026-09-16 | 0 | 3 | 253 | 0 | 0 | 563 |
+| 90d | 2026-08-17 | 0 | 5 | 293 | 0 | 0 | 917 |
+| last180d | 2026-05-19 | 0 | 7 | 349 | 0 | 0 | 1643 |
+| 360d | 2025-11-20 | 0 | 10 | 397 | 0 | 0 | 3220 |
+| last720d | 2024-11-25 | 0 | 16 | 413 | 0 | 0 | 9677 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for jdk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:57:09Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:55:31Z._
