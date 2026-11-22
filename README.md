@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,557 · **Forks**: 6,557 · **Open issues**: 0 · **Contributors**: 937
+- **Stars**: 23,563 · **Forks**: 6,558 · **Open issues**: 0 · **Contributors**: 937
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 26 · **Open PRs**: 412 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 90755
+- **Releases**: 0 · **Merged PRs**: 26 · **Open PRs**: 414 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 90755
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 2 | 167 | 0 | 0 | 299 |
-| last60d | 2026-09-22 | 0 | 4 | 240 | 0 | 0 | 629 |
-| 90d | 2026-08-23 | 0 | 4 | 285 | 0 | 0 | 985 |
-| last180d | 2026-05-25 | 0 | 8 | 341 | 0 | 0 | 1714 |
-| 360d | 2025-11-26 | 0 | 11 | 387 | 0 | 0 | 3291 |
-| last720d | 2024-12-01 | 0 | 17 | 403 | 0 | 0 | 9657 |
+| 30d | 2026-10-23 | 0 | 2 | 165 | 0 | 0 | 226 |
+| last60d | 2026-09-23 | 0 | 4 | 241 | 0 | 0 | 564 |
+| 90d | 2026-08-24 | 0 | 4 | 287 | 0 | 0 | 900 |
+| last180d | 2026-05-26 | 0 | 8 | 343 | 0 | 0 | 1654 |
+| 360d | 2025-11-27 | 0 | 11 | 387 | 0 | 0 | 3198 |
+| last720d | 2024-12-02 | 0 | 17 | 405 | 0 | 0 | 9655 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for jdk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:20:36Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:36:47Z._
