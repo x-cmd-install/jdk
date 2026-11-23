@@ -14,11 +14,11 @@ x install jdk
 
 ## Code insight
 
-Total: **9,824,793** lines of code across **59730** files in the top 5 languages.
+Total: **9,825,304** lines of code across **59732** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 5,990,040 | 3,344,004 | 1,119,288 | 53486 |
+| Java | 5,990,551 | 3,344,090 | 1,119,361 | 53488 |
 | Xml | 1,348,302 | 9,124 | 2,359 | 1596 |
 | Cpp | 1,033,003 | 263,133 | 193,682 | 3541 |
 | AssemblyGAS | 405,072 | 1,322 | 11,579 | 92 |
@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,563 · **Forks**: 6,558 · **Open issues**: 0 · **Contributors**: 937
+- **Stars**: 23,566 · **Forks**: 6,557 · **Open issues**: 0 · **Contributors**: 937
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 26 · **Open PRs**: 414 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 90755
+- **Releases**: 0 · **Merged PRs**: 26 · **Open PRs**: 419 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 90758
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 2 | 165 | 0 | 0 | 226 |
-| last60d | 2026-09-23 | 0 | 4 | 241 | 0 | 0 | 564 |
-| 90d | 2026-08-24 | 0 | 4 | 287 | 0 | 0 | 900 |
-| last180d | 2026-05-26 | 0 | 8 | 343 | 0 | 0 | 1654 |
-| 360d | 2025-11-27 | 0 | 11 | 387 | 0 | 0 | 3198 |
-| last720d | 2024-12-02 | 0 | 17 | 405 | 0 | 0 | 9655 |
+| 30d | 2026-10-24 | 0 | 1 | 170 | 0 | 0 | 229 |
+| last60d | 2026-09-24 | 0 | 4 | 243 | 0 | 0 | 567 |
+| 90d | 2026-08-25 | 0 | 4 | 292 | 0 | 0 | 903 |
+| last180d | 2026-05-27 | 0 | 8 | 347 | 0 | 0 | 1657 |
+| 360d | 2025-11-28 | 0 | 11 | 392 | 0 | 0 | 3201 |
+| last720d | 2024-12-03 | 0 | 17 | 410 | 0 | 0 | 9634 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for jdk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:36:47Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T09:40:58Z._
